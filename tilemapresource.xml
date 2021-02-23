@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>alners_hill_rend.tif</Title>
+      <Title>south_hill_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.54212643419025" miny="50.88822779153437" maxx="-2.35679009863562" maxy="50.93390036734849"/>
-      <Origin x="-2.54212643419025" y="50.88822779153437"/>
+      <BoundingBox minx="-2.54160415694893" miny="50.84326664584436" maxx="-2.35644601801607" maxy="50.88893937073598"/>
+      <Origin x="-2.54160415694893" y="50.84326664584436"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="10" units-per-pixel="152.87405654296876" order="10"/>

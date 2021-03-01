@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>yeovildsmhillrend.tif</Title>
+      <Title>hamhillnathillrend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.71425723792180" miny="50.84235548278206" maxx="-2.56948907339353" maxy="51.02297027373927"/>
-      <Origin x="-2.71425723792180" y="50.84235548278206"/>
+      <BoundingBox minx="-2.78553861844859" miny="50.84189882054491" maxx="-2.71150223012588" maxy="51.02218550030036"/>
+      <Origin x="-2.78553861844859" y="50.84189882054491"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="10" units-per-pixel="152.87405654296876" order="10"/>
